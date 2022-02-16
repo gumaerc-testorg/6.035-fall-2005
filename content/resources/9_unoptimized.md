@@ -4,8 +4,13 @@ description: 'This resource covers the following topics: Segment IV Roadmap, Ana
   of a compiler, Components of a High Level Language, Assembly language, Composition
   of an Object File, Overview of a modern processor, Procedure Abstraction, Parameter
   passing disciplines, Registers, The Stack, and Guidelines for the code generator.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-035-computer-language-engineering-sma-5502-fall-2005/9356991ffa76bfde56cc1cf178854b34_9_unoptimized.pdf
+file: /media/courses/6-035-computer-language-engineering-sma-5502-fall-2005/9356991ffa76bfde56cc1cf178854b34_9_unoptimized.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 9_unoptimized.pdf
 uid: 9356991f-fa76-bfde-56cc-1cf178854b34

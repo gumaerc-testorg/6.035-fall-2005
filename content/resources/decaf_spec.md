@@ -5,8 +5,13 @@ description: 'The project for the course is to write a compiler for a language c
   covers the following topics: Lexical Considerations, Reference Grammar, Semantics,
   Types, Scope Rules, Locations, Assignment, Method Invocation and Return, Control
   Statements, Expressions, Library Callouts, Semantic Rules, and Run Time Checking.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-035-computer-language-engineering-sma-5502-fall-2005/d122dcaacafb166460afda87191441ed_decaf_spec.pdf
+file: /media/courses/6-035-computer-language-engineering-sma-5502-fall-2005/d122dcaacafb166460afda87191441ed_decaf_spec.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: decaf_spec.pdf
 uid: d122dcaa-cafb-1664-60af-da87191441ed

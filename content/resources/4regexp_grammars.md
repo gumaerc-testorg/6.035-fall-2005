@@ -14,8 +14,13 @@ description: 'This resource covers the following topics: Language Definition Pro
   a Language, Regular Languages, Grammar and Automata Correspondence, Context-Free
   Grammars, Push-Down Automata, CFG Versus PDA, and Context-Sensitive Grammars and
   Turing Machines.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-035-computer-language-engineering-sma-5502-fall-2005/a8fd5194949b300d6ecc23f2b2cd1b94_4regexp_grammars.pdf
+file: /media/courses/6-035-computer-language-engineering-sma-5502-fall-2005/a8fd5194949b300d6ecc23f2b2cd1b94_4regexp_grammars.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 4regexp_grammars.pdf
 uid: a8fd5194-949b-300d-6ecc-23f2b2cd1b94

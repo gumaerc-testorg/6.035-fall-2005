@@ -4,8 +4,13 @@ description: 'This course covers the following topics: Dataflow Analysis, Progra
   Representation, Program Points, Forward Dataflow Analysis, Backward Dataflow Analysis,
   Partial Orders, Application to Dataflow Analysis, Transfer Functions, Reaching Definitions,
   and Summary etc.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-035-computer-language-engineering-sma-5502-fall-2005/80d42de10044c47032e7149d0eefff66_11dataflowanlys.pdf
+file: /media/courses/6-035-computer-language-engineering-sma-5502-fall-2005/80d42de10044c47032e7149d0eefff66_11dataflowanlys.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 11dataflowanlys.pdf
 uid: 80d42de1-0044-c470-32e7-149d0eefff66
