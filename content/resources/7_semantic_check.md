@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 7_semantic_check.pdf
 uid: 41f7dfc1-9345-7961-6240-a609947159f0

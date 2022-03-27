@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 2scanerparsr_prj.pdf
 uid: eb9d5c5c-86fd-f1cb-589d-241932ad8521

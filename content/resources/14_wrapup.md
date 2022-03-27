@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 14_wrapup.pdf
 uid: b11cb4ff-a27f-6b5d-19a7-6f8be2fd93cc

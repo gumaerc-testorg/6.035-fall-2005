@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: scannerparser_pr.pdf
 uid: 7c835bf8-58ed-11af-e528-2b78476ae002

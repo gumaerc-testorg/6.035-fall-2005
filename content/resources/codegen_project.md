@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: codegen_project.pdf
 uid: 60eadc25-7ec0-95f3-3437-e6b0a5924ca7

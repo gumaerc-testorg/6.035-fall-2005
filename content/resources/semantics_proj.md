@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: semantics_proj.pdf
 uid: c9e74399-1b08-51d9-8f39-b903943d0923

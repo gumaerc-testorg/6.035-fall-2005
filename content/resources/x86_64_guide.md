@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: x86_64_guide.pdf
 uid: b69fca13-29e6-f0dd-acc5-a055ef033f3e
