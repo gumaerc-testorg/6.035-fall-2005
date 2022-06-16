@@ -25,23 +25,26 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-R1: Scanner Parser Project ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/2scanerparsr_prj.pdf "Open in a new window."))  
+R1: Scanner Parser Project ({{% resource_link "eb9d5c5c-86fd-f1cb-589d-241932ad8521" "PDF" %}})  
 (Courtesy of Punyashloka Biswal. Used with permission.)
 
 Session taught by Professor Martin Rinard - No video  
 L2: Overview of Programming Languages
 
 Session taught by Professor Martin Rinard - No video  
-L3: Regular Expressions, Language Specification by Formal Grammars ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/4regexp_grammars.pdf "Open in a new window."))
+L3: Regular Expressions, Language Specification by Formal Grammars ({{% resource_link "a8fd5194-949b-300d-6ecc-23f2b2cd1b94" "PDF" %}})
 
 Session taught by Professor Martin Rinard - No video  
-L4: Parse Table Construction ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/6_parsetable.pdf "Open in a new window."))
+L4: Parse Table Construction ({{% resource_link "bb19f1ad-bcf4-3335-5063-c2c86127ebc8" "PDF" %}})
 
 Session taught by Professor Martin Rinard - No video  
-L5: Top-down Parsing ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/8_topdownparsing.pdf "Open in a new window."))
+L5: Top-down Parsing ({{% resource_link "cbcdbc8a-cc20-c115-5879-2e7f71a9db19" "PDF" %}})
 
 Session taught by Professor Martin Rinard - No video  
-L6: Intermediate Representations ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/3_intrmdatefrmts.pdf "Open in a new window."))
+L6: Intermediate Representations ({{% resource_link "d9a1b8f4-c941-684e-a04b-7985fc92a441" "PDF" %}})
 
 Session taught by Professor Martin Rinard- No video  
-L7: Semantic Analysis ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/7_semantic_check.pdf "Open in a new window."))
+L7: Semantic Analysis ({{% resource_link "41f7dfc1-9345-7961-6240-a609947159f0" "PDF" %}})
+
+
+

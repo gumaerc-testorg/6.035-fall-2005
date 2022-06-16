@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: Lecture notes section contains downloadable lecture notes for some selected
+  lectures and video files of each lecture.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes

@@ -25,16 +25,19 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L9: Unoptimized Code Generation (cont.) ([PDF]({{< baseurl >}}/resources/9_unoptimized))
+L9: Unoptimized Code Generation (cont.) ({{% resource_link "9356991f-fa76-bfde-56cc-1cf178854b34" "PDF" %}})
 
 Session taught by Professor Martin Rinard- No video  
-L10: Introduction to Program Analysis and Optimization ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/10_anlystrnsfrmn.pdf "Open in a new window."))  
+L10: Introduction to Program Analysis and Optimization ({{% resource_link "1c52fc78-a66d-5623-fcc4-40b0a98afb77" "PDF" %}})  
   
 Session taught by Professor Martin Rinard- No video  
-L11: Data-flow Analysis ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/10anlystrnsfrmn2.pdf "Open in a new window."))
+L11: Data-flow Analysis ({{% resource_link "85c9a2ef-d7ba-0a56-6eaf-a8ec8f6627a4" "PDF" %}})
 
 Session taught by Professor Martin Rinard - No video  
-L12: Data-flow Optimizations ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/10anlystrnsfrmn2.pdf "Open in a new window."))
+L12: Data-flow Optimizations ({{% resource_link "85c9a2ef-d7ba-0a56-6eaf-a8ec8f6627a4" "PDF" %}})
 
 Session taught by Professor Martin Rinard - No video  
-L13: Foundations of Data-flow Analysis ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/11dataflowanlys.pdf "Open in a new window."))
+L13: Foundations of Data-flow Analysis ({{% resource_link "80d42de1-0044-c470-32e7-149d0eefff66" "PDF" %}})
+
+
+

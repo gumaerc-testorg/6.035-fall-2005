@@ -25,7 +25,10 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L17: Putting it all Together ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/14_wrapup.pdf "Open in a new window."))
+L17: Putting it all Together ({{% resource_link "b11cb4ff-a27f-6b5d-19a7-6f8be2fd93cc" "PDF" %}})
 
 Session taught by Professor Saman Amarasinghe - No video  
 L18: Compiler Derby
+
+
+

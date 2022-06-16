@@ -26,4 +26,7 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe
 
-Course Administration Information and Overview ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/1_introduction.pdf "Open in a new window."))
+Course Administration Information and Overview ({{% resource_link "d13c0474-4f2f-f9f5-8d8e-075de9d6783a" "PDF" %}})
+
+
+

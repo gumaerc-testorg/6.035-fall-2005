@@ -25,4 +25,7 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L14: Instruction Scheduling ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/12listscheduling.pdf "Open in a new window."))
+L14: Instruction Scheduling ({{% resource_link "46360a3b-1911-6de3-e001-f6f4ce49b909" "PDF" %}})
+
+
+

@@ -25,4 +25,7 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L16: Register Allocation ([PDF](/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/13_registeralloc.pdf "Open in a new window."))
+L16: Register Allocation ({{% resource_link "1e4d5a57-621a-64b3-08dd-b52e61cff46c" "PDF" %}})
+
+
+

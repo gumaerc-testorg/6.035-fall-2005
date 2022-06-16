@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar section lists the weekly lecture schedule, covering different
+  lectures, projects, recitation and quizzes offered in the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

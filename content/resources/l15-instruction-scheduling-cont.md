@@ -25,4 +25,7 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L15: Instruction Scheduling (cont.)  ([PDF]({{< baseurl >}}/resources/12listscheduling))
+L15: Instruction Scheduling (cont.)  ({{% resource_link "46360a3b-1911-6de3-e001-f6f4ce49b909" "PDF" %}})
+
+
+

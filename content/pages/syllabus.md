@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section covers course prerequisite, class format, information
+  regarding projects and project reviews, and the gradings criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +25,7 @@ Class Format
 
 The lectures, problem sets and exams of 6.035 are structured around the compiler project, which is divided into five segments. Each segment addresses a separate aspect of compiler construction. Each segment (except the first) consists of a series of lectures, a programming assignment and a problem set or an in-class quiz.
 
-At the beginning of a segment, the programming assignment will be given. Next, a series of lectures will introduce the material. The remaining time of the segment will be devoted to the project, thus no classes will be held. Each group should schedule a weekly "project review" meeting with your TA to discuss the design decisions, project progress and group status. A segment comes to an end on the due date of the project assignment. The [calendar]({{< baseurl >}}/pages/calendar) outlines the schedule and Handout 4 "Project Overview" expands on the project details. In addition to the projects, there will be three in-class quizzes and four paper assignments, which will include a one-on-one paper discussion with a staff member.
+At the beginning of a segment, the programming assignment will be given. Next, a series of lectures will introduce the material. The remaining time of the segment will be devoted to the project, thus no classes will be held. Each group should schedule a weekly "project review" meeting with your TA to discuss the design decisions, project progress and group status. A segment comes to an end on the due date of the project assignment. The {{% resource_link e2825f21-8a71-c485-74ed-2e2d2e55dbd7 "calendar" %}} outlines the schedule and Handout 4 "Project Overview" expands on the project details. In addition to the projects, there will be three in-class quizzes and four paper assignments, which will include a one-on-one paper discussion with a staff member.
 
 The Project
 -----------
@@ -99,7 +101,7 @@ In-class Quizzes (10% each)
 
 {{< tableclose >}}
 
-Make sure you understand how your final grade will be calculated. Additional details about how the project grade is calculated are available in the [projects]({{< baseurl >}}/pages/projects) section.
+Make sure you understand how your final grade will be calculated. Additional details about how the project grade is calculated are available in the {{% resource_link e74ddea1-3759-d294-6fef-d20a8fcd1eca "projects" %}} section.
 
 Reading and Discussing Papers
 -----------------------------
