@@ -6,6 +6,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/4f0d44206c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice_quiz1.pdf
 uid: 4f0d4420-6c46-cccf-a085-6a88d419bcf0
 ---
 This resource contains some questions from Regular Expressions, Grammar for ?Scheme, and Parser Construction.
-

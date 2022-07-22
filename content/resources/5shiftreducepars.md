@@ -7,6 +7,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/ec90cc0079
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 5shiftreducepars.pdf
 uid: ec90cc00-790c-635e-9dc2-0d9550f80a2d
 ---
 This resource describes: How generated parser works?, How parser generator produces parser?, Central mechanism covering - Pushdown automaton and Shift-reduce parser.
-

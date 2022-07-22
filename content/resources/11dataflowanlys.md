@@ -8,6 +8,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/80d42de100
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 11dataflowanlys.pdf
 uid: 80d42de1-0044-c470-32e7-149d0eefff66
 ---
 This course covers the following topics: Dataflow Analysis, Program Representation, Program Points, Forward Dataflow Analysis, Backward Dataflow Analysis, Partial Orders, Application to Dataflow Analysis, Transfer Functions, Reaching Definitions, and Summary etc.
-

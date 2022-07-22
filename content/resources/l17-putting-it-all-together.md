@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -29,6 +30,4 @@ L17: Putting it all Together ({{% resource_link "b11cb4ff-a27f-6b5d-19a7-6f8be2f
 
 Session taught by Professor Saman Amarasinghe - No video  
 L18: Compiler Derby
-
-
 

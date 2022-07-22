@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -26,6 +27,4 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe  
 L14: Instruction Scheduling ({{% resource_link "46360a3b-1911-6de3-e001-f6f4ce49b909" "PDF" %}})
-
-
 

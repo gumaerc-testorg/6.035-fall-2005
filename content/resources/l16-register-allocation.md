@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -26,6 +27,4 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe  
 L16: Register Allocation ({{% resource_link "1e4d5a57-621a-64b3-08dd-b52e61cff46c" "PDF" %}})
-
-
 

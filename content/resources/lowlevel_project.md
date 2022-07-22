@@ -7,6 +7,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/ec6aacebc9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lowlevel_project.pdf
 uid: ec6aaceb-c927-a3e4-86cf-1d1d858b4cf0
 ---
 In the final phase of the project, the students will implement some instruction-level optimizations. Students are required to implement register allocation. Any remaining optimizations are optional.
-

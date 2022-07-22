@@ -6,6 +6,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/9e63bb6145
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice_quiz3.pdf
 uid: 9e63bb61-4544-d740-1593-d88ca285693b
 ---
 This resource contains questions on: Dominators, Loop Invariant Code Motion, and Register Allocation.
-

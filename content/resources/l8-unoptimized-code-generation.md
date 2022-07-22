@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -26,6 +27,4 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe  
 L8: Unoptimized Code Generation ({{% resource_link "9356991f-fa76-bfde-56cc-1cf178854b34" "PDF" %}})
-
-
 

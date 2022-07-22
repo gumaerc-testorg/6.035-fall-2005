@@ -7,6 +7,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/d13c04744f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 1_introduction.pdf
 uid: d13c0474-4f2f-f9f5-8d8e-075de9d6783a
 ---
 This resources includes course administration information and introduction to computer language engineering covering: What are compilers?, Why should we learn about them?, and Anatomy of a compiler.
-

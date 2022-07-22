@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -27,6 +28,4 @@ video_metadata:
 Session taught by Professor Saman Amarasinghe
 
 Course Administration Information and Overview ({{% resource_link "d13c0474-4f2f-f9f5-8d8e-075de9d6783a" "PDF" %}})
-
-
 

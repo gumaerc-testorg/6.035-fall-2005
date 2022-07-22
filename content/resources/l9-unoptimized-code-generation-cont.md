@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -38,6 +39,4 @@ L12: Data-flow Optimizations ({{% resource_link "85c9a2ef-d7ba-0a56-6eaf-a8ec8f6
 
 Session taught by Professor Martin Rinard - No video  
 L13: Foundations of Data-flow Analysis ({{% resource_link "80d42de1-0044-c470-32e7-149d0eefff66" "PDF" %}})
-
-
 
