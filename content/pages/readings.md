@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: There were no required readings for the course; however, optional readings
+  were provided for students who wished to learn more about designing and implementing
+  a compiler.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5b624ad5-77bc-ebad-1b1f-6fe7fa413a78
 ---
