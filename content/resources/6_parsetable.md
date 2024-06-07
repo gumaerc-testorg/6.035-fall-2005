@@ -6,6 +6,7 @@ description: 'This resource covers the following topics: Parse Tables (Review), 
   states, Constructing A Parse Engine, Creating the parse tables, Building Parse Table
   Example, Terminology, and Summary.'
 file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/bb19f1adbcf433355063c2c86127ebc8_6_parsetable.pdf
+file_size: 152958
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
