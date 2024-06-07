@@ -4,6 +4,7 @@ description: This guide presents a simplified version of the x86-64 platform, fo
   the code-generation project. It contains a Decaf program, Reference, Registers,
   Instruction Set, Stack Organization, Calling Convention.
 file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/b69fca1329e6f0ddacc5a055ef033f3e_x86_64_guide.pdf
+file_size: 76246
 file_type: application/pdf
 learning_resource_types:
 - Projects

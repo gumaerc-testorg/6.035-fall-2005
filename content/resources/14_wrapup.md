@@ -5,6 +5,7 @@ description: 'This resource covers the following topics: How to make the compute
   Syntax Analysis (parsing), Parse Tree Example, LR(k) Parser Engine, Semantic Analysis,
   Translation to Intermediate Format, Code Optimizations, and Compiler Derby.'
 file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/b11cb4ffa27f6b5d19a76f8be2fd93cc_14_wrapup.pdf
+file_size: 227927
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
