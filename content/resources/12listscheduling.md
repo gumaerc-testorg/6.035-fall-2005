@@ -7,6 +7,7 @@ description: 'This resource covers the following topics: Simple Machine Model, S
   basic blocks, Trace Scheduling, Scheduling Loops, Software Pipelining, Register
   Allocation and Instruction Scheduling etc.'
 file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/46360a3b19116de3e001f6f4ce49b909_12listscheduling.pdf
+file_size: 221566
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
