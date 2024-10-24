@@ -9,7 +9,7 @@ description: 'The static semantics phase of the project requires considerably mo
   semantic checks you choose to do as part of the parsing process, b) Build symbol
   tables for the classes, c) Perform all remaining semantic checks by traversing the
   IR and accessing the symbol tables.'
-file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/c9e743991b0851d98f39b903943d0923_semantics_proj.pdf
+file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/c9e743991b0851d98f39b903943d0923_semantics_proj.pdf
 file_size: 115005
 file_type: application/pdf
 learning_resource_types:
