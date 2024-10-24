@@ -4,7 +4,7 @@ description: 'This resource describes: Language specification covering Lexical s
   ? regular expressions and Syntactic structure ? grammar. It also covers:  Recursive
   descent parsers with: Code parser as set of mutually recursive procedures, and Structure
   of program matches structure of grammar.'
-file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/cbcdbc8acc20c11558792e7f71a9db19_8_topdownparsing.pdf
+file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/cbcdbc8acc20c11558792e7f71a9db19_8_topdownparsing.pdf
 file_size: 198517
 file_type: application/pdf
 learning_resource_types:
