@@ -6,7 +6,7 @@ description: 'This resource covers the following topics: Error Issue, Goal of Se
   Code, Parameter Descriptors, Local Descriptors, Local Symbol Table, Class Descriptor,
   Load Array Instruction, Type Inference for Add Operations, Type Inference, Equality
   Expressions, Store Instruction, Method Invocations and Semantic Check Summary.'
-file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/41f7dfc1934579616240a609947159f0_7_semantic_check.pdf
+file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/41f7dfc1934579616240a609947159f0_7_semantic_check.pdf
 file_size: 167379
 file_type: application/pdf
 learning_resource_types:
