@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is an overview of the course project and its grading scheme. It
   majorly covers: Important Project Dates, The Project Segments, and What To Hand
   In etc.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/ae0d560408117c9d0b65d0975a9bdc7a_project_overview.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/ae0d560408117c9d0b65d0975a9bdc7a_project_overview.pdf
 file_size: 98692
 file_type: application/pdf
 learning_resource_types:

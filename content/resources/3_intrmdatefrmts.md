@@ -8,7 +8,7 @@ description: 'This resource covers the following topics: Program Representation 
   Descriptors, Translating from Abstract Syntax Trees to Symbol Tables, Representing
   Code in High-Level Intermediate Representation, From Abstract Syntax Trees to Intermediate
   Representation etc.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/d9a1b8f4c941684ea04b7985fc92a441_3_intrmdatefrmts.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/d9a1b8f4c941684ea04b7985fc92a441_3_intrmdatefrmts.pdf
 file_size: 403413
 file_type: application/pdf
 learning_resource_types:

@@ -5,7 +5,7 @@ description: 'This resource covers the following topics: Dataflow Analysis, Reac
   Analysis, Dataflow Equations, Available Expressions, General Correctness, Liveness
   Analysis, Dead Code Elimination, Formalizing Analysis, Analysis Information Inside
   Basic Blocks, Pessimistic vs. Optimistic Analyses, and Summary.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/85c9a2efd7ba0a566eafa8ec8f6627a4_10anlystrnsfrmn2.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/85c9a2efd7ba0a566eafa8ec8f6627a4_10anlystrnsfrmn2.pdf
 file_size: 149716
 file_type: application/pdf
 learning_resource_types:

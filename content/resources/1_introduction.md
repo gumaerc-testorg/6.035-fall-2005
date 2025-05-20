@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resources includes course administration information and introduction
   to computer language engineering covering: What are compilers?, Why should we learn
   about them?, and Anatomy of a compiler.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/d13c04744f2ff9f58d8e075de9d6783a_1_introduction.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/d13c04744f2ff9f58d8e075de9d6783a_1_introduction.pdf
 file_size: 437541
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains some questions from Regular Expressions, Grammar
   for ?Scheme, and Parser Construction.
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/4f0d44206c46cccfa0856a88d419bcf0_practice_quiz1.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/4f0d44206c46cccfa0856a88d419bcf0_practice_quiz1.pdf
 file_size: 42559
 file_type: application/pdf
 learning_resource_types:
