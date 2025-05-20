@@ -4,7 +4,7 @@ description: 'This resource covers the following topics: Program Analysis, Trans
   Control Flow Graph, Basic Block Construction, Program Points, Split and Join Points,
   Basic Block Optimizations, Value Numbering, Map Usage, Interesting Properties, Copy
   Propagation, Copy Propagation Maps, Copy Propagation Example and Dead Code Elimination.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/1c52fc78a66d5623fcc440b0a98afb77_10_anlystrnsfrmn.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/1c52fc78a66d5623fcc440b0a98afb77_10_anlystrnsfrmn.pdf
 file_size: 197511
 file_type: application/pdf
 learning_resource_types:

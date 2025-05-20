@@ -3,7 +3,7 @@ content_type: resource
 description: In the final phase of the project, the students will implement some instruction-level
   optimizations. Students are required to implement register allocation. Any remaining
   optimizations are optional.
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/ec6aacebc927a3e486cf1d1d858b4cf0_lowlevel_project.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/ec6aacebc927a3e486cf1d1d858b4cf0_lowlevel_project.pdf
 file_size: 71987
 file_type: application/pdf
 learning_resource_types:
