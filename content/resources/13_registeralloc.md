@@ -7,7 +7,7 @@ description: 'This resource covers the following topics: Storing values between 
   Spill Costs, Splitting Rather Than Spilling, Further Optimizations including Register
   coalescing, Register targeting (pre-coloring), Presplitting of webs, Interprocedural
   register allocation and various examples related to the topics.'
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-sma-5502-fall-2005/1e4d5a57621a64b308ddb52e61cff46c_13_registeralloc.pdf
+file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/1e4d5a57621a64b308ddb52e61cff46c_13_registeralloc.pdf
 file_size: 104088
 file_type: application/pdf
 learning_resource_types:
