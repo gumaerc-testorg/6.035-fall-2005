@@ -10,18 +10,18 @@ uid: d5008c83-5d0e-fbae-2b88-06949aed1e1a
 
 This section provides links to Web sites that are relevant to the course topics.
 
-*   [Modern Compiler Implementation in Java®](http://www.cs.princeton.edu/~appel/modern/)
+*   {{% resource_link "1e6c71d5-b639-438f-8287-e7caa95326a4" "Modern Compiler Implementation in Java®" %}}
     
-*   [JLex Scanner Generator](http://www.cs.princeton.edu/~appel/modern/java/JLex/)
+*   {{% resource_link "8df0e532-2f51-4cf8-87fe-2203ab1ec5d3" "JLex Scanner Generator" %}}
     
-*   [CUP Parser Generator: Manual](http://www.cs.princeton.edu/~appel/modern/java/CUP/)
+*   {{% resource_link "b09db9f4-541d-41cd-bfe7-8a218c7c7fb0" "CUP Parser Generator: Manual" %}}
     
-*   [Java® 1.5.0 Documentation](http://java.sun.com/j2se/1.5.0/docs/api/) (Language and Tools)
+*   {{% resource_link "00bb4f60-1ae3-44d7-ab39-e23c020bb464" "Java® 1.5.0 Documentation" %}} (Language and Tools)
     
-*   [CVS - Concurrent Versions System](http://www.cvshome.org/eng/)
+*   {{% resource_link "e53ba942-4332-4310-9564-8fc7e148bbdb" "CVS - Concurrent Versions System" %}}
     
-*   [GNU Make](http://www.gnu.org/software/make/manual/make.html)
+*   {{% resource_link "2c9cd58b-f28c-45cc-a6fd-266bd7781941" "GNU Make" %}}
     
-*   [Apache™ Ant](http://ant.apache.org/manual/)
+*   {{% resource_link "a0ef0839-bdf0-4bcf-95bd-50fbd2526ff6" "Apache™ Ant" %}}
     
-*   [AT&T Assembler Syntax](http://www.freepascal.org/docs-html/prog/progsu115.html)
+*   {{% resource_link "b82fd445-c384-4d72-8d21-4600f6e3b492" "AT&T Assembler Syntax" %}}
